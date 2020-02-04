@@ -1,6 +1,8 @@
 # linux-workspace
 
 Welcome to `linux-workspace`, a skeleton for a version-controlled Linux work area that you can bring with you anywhere.
+Sourced from:
+https://medium.com/@stephenagrice/take-your-linux-workspace-anywhere-backup-for-nerds-fdbf40b0421
 
 ## Getting Started
 
